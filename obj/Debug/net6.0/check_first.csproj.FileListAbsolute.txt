@@ -1,0 +1,15 @@
+C:\Users\knyaz\Desktop\check_first\bin\Debug\net6.0\check_first.exe
+C:\Users\knyaz\Desktop\check_first\bin\Debug\net6.0\check_first.deps.json
+C:\Users\knyaz\Desktop\check_first\bin\Debug\net6.0\check_first.runtimeconfig.json
+C:\Users\knyaz\Desktop\check_first\bin\Debug\net6.0\check_first.dll
+C:\Users\knyaz\Desktop\check_first\bin\Debug\net6.0\check_first.pdb
+C:\Users\knyaz\Desktop\check_first\obj\Debug\net6.0\check_first.csproj.AssemblyReference.cache
+C:\Users\knyaz\Desktop\check_first\obj\Debug\net6.0\check_first.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knyaz\Desktop\check_first\obj\Debug\net6.0\check_first.AssemblyInfoInputs.cache
+C:\Users\knyaz\Desktop\check_first\obj\Debug\net6.0\check_first.AssemblyInfo.cs
+C:\Users\knyaz\Desktop\check_first\obj\Debug\net6.0\check_first.csproj.CoreCompileInputs.cache
+C:\Users\knyaz\Desktop\check_first\obj\Debug\net6.0\check_first.dll
+C:\Users\knyaz\Desktop\check_first\obj\Debug\net6.0\refint\check_first.dll
+C:\Users\knyaz\Desktop\check_first\obj\Debug\net6.0\check_first.pdb
+C:\Users\knyaz\Desktop\check_first\obj\Debug\net6.0\check_first.genruntimeconfig.cache
+C:\Users\knyaz\Desktop\check_first\obj\Debug\net6.0\ref\check_first.dll
